@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Oussama, another AI enthusiast
+### Hi there 👋, I'm Oussama
+<!--, another AI enthusiast-->
 
 <p align="center"><img width="100%" src="assets/hilbert_curve_animated.gif"></p>
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 #### 👁️‍🗨️ Interests  
-  AI, Software Engineering, Football, Politics, Graphic Design.
+  AI (RL, Multimodal Learning, Generative Models), Software Engineering, Football, Politics, Graphic Design.
 
 #### 📫 Best ways to reach me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-hidaoui/) [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ou.hidaoui@gmail.com)
